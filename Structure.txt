@@ -6,29 +6,29 @@ Here are the structure of the folders in this repository:
 	 |      |       
          |      --- Right --- EMG_gaitr.mot
 	 |
-       -- ID  --- Left  --- ID_gait_L2.sto
+         -- ID  --- Left  --- ID_gait_L2.sto
 	 |      | 
          |      --- Right --- ID_gait_R2.sto
 	 |
-       -- IK  --- Left  --- RSS15_IK_L.mot
+         -- IK  --- Left  --- RSS15_IK_L.mot
 	 |      |
          |      --- Right --- RSS15_IK_R.mot
 	 |
-       -- Strength Measurements  --- Muscle Strength Measurement.xlsx
+         -- Strength Measurements  --- Muscle Strength Measurement.xlsx
 
 
 ************************ Model ************************ 
-- Model -- Scaled --- Hamner_modified_RSS15_Scaled.osim
+- Model   -- Scaled --- Hamner_modified_RSS15_Scaled.osim
 	 |
-        -- StrengthScaled --- Hamner_modified_RSS15_Scaled_Muscle.osim
+          -- StrengthScaled --- Hamner_modified_RSS15_Scaled_Muscle.osim
 	 |
-        -- StrengthScaled_EMG --- Hamner_modified_RSS15_Scaled_Muscle_R_L.osim
+          -- StrengthScaled_EMG --- Hamner_modified_RSS15_Scaled_Muscle_R_L.osim
 	 |
-        -- EMG_StrengthScaled --- Hamner_modified_RSS15_Scaled_R_L_Muscle.osim
+          -- EMG_StrengthScaled --- Hamner_modified_RSS15_Scaled_R_L_Muscle.osim
 
 ************************ Muscle Strength Scaler ************************ 
 - Muscle Strength Scale -- SubjectStrength.xlsx
-	 			|
+	 		|
        			-- strengthScaler.m 
 
 ************************ Results ************************ 
