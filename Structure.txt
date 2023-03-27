@@ -1,4 +1,3 @@
-# iSCI_Predsim_Result
 This is a repository for asymetrical predictive simulation on an individual with incomplete spinal cord injury. 
 Here are the structure of the folders in this repository:
 
