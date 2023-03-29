@@ -4045,7 +4045,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>896</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.1131777790783037</optimal_fiber_length>
+					<optimal_fiber_length>0.041670285774784044</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.33849500898648632</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -5316,7 +5316,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1169</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.11721211485226782</optimal_fiber_length>
+					<optimal_fiber_length>0.20028793159098365</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.31873469828248263</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -5675,7 +5675,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1871</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.086969362926044291</optimal_fiber_length>
+					<optimal_fiber_length>0.059870266874123279</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.16254988070701135</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -5742,7 +5742,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1558</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.067988053313603442</optimal_fiber_length>
+					<optimal_fiber_length>0.12410054280851349</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.44192234653842238</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -5809,7 +5809,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>683</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.072462805339183881</optimal_fiber_length>
+					<optimal_fiber_length>0.13226843596389695</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.43024790670140423</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -5866,7 +5866,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>3549</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.056136659990419349</optimal_fiber_length>
+					<optimal_fiber_length>0.030606312286194266</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.28068329995209673</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -6178,7 +6178,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>905</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.10821035495265675</optimal_fiber_length>
+					<optimal_fiber_length>0.067287955486752288</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.24623376688206586</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -7122,7 +7122,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>896</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.1131777790783037</optimal_fiber_length>
+					<optimal_fiber_length>0.15376802396560055</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.33849500898648632</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -8393,7 +8393,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1169</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.11721211485226782</optimal_fiber_length>
+					<optimal_fiber_length>0.1409598549739568</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.31873469828248263</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -8752,7 +8752,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1871</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.086969362926044291</optimal_fiber_length>
+					<optimal_fiber_length>0.19115724346969137</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.16254988070701135</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -8819,7 +8819,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1558</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.067988053313603442</optimal_fiber_length>
+					<optimal_fiber_length>0.047988149664315777</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.44192234653842238</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -8886,7 +8886,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>683</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.072462805339183881</optimal_fiber_length>
+					<optimal_fiber_length>0.051146573232111747</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.43024790670140423</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -8943,7 +8943,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>3549</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.056136659990419349</optimal_fiber_length>
+					<optimal_fiber_length>0.12349174189454631</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.28068329995209673</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -9255,7 +9255,7 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>905</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.10821035495265675</optimal_fiber_length>
+					<optimal_fiber_length>0.11534508401697578</optimal_fiber_length>
 					<!--Resting length of the tendon-->
 					<tendon_slack_length>0.24623376688206586</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
@@ -10012,222 +10012,6 @@
 					<!--Deactivation time constant, in seconds-->
 					<deactivation_time_constant>0.040000000000000001</deactivation_time_constant>
 				</Thelen2003Muscle>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s1_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s1_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s2_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s2_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s3_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s3_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s4_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s4_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s5_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s5_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s6_r">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s6_r</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s1_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s1_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s2_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s2_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s3_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s3_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s4_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s4_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s5_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s5_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
-				<SmoothSphereHalfSpaceForce name="SmoothSphereHalfSpaceForce_s6_l">
-					<!--Path to a Component that satisfies the Socket 'sphere' of type ContactSphere (description: The sphere participating in this contact.).-->
-					<socket_sphere>/contactgeometryset/s6_l</socket_sphere>
-					<!--Path to a Component that satisfies the Socket 'half_space' of type ContactHalfSpace (description: The half-space participating in this contact.).-->
-					<socket_half_space>/contactgeometryset/floor</socket_half_space>
-					<!--The stiffness constant (i.e., plain strain modulus), default is 1 (N/m^2)-->
-					<stiffness>1000000</stiffness>
-					<!--The dissipation coefficient, default is 0 (s/m).-->
-					<dissipation>2</dissipation>
-					<!--The coefficient of static friction, default is 0.-->
-					<static_friction>0.80000000000000004</static_friction>
-					<!--The coefficient of dynamic friction, default is 0.-->
-					<dynamic_friction>0.80000000000000004</dynamic_friction>
-					<!--The coefficient of viscous friction, default is 0.-->
-					<viscous_friction>0.5</viscous_friction>
-					<!--The transition velocity, default is 0.01 (m/s).-->
-					<transition_velocity>0.20000000000000001</transition_velocity>
-				</SmoothSphereHalfSpaceForce>
 			</objects>
 			<groups>
 				<ObjectGroup name="R_hip_abd">
@@ -10792,136 +10576,7 @@
 		</MarkerSet>
 		<!--Geometry to be used in contact forces.-->
 		<ContactGeometrySet name="contactgeometryset">
-			<objects>
-				<ContactHalfSpace name="floor">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/ground</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0 0 0</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 -1.5707963267948966</orientation>
-				</ContactHalfSpace>
-				<ContactSphere name="s1_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.0019011578840796601 -0.01 -0.00382630379623308</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s2_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.14838639994206301 -0.01 -0.028713422052654002</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s3_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.13300117060705099 -0.01 0.051636247344956601</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s4_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.066234666199163503 -0.01 0.026364160674169801</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s5_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/toes_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.059999999999999998 -0.01 -0.018760308461917698</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s6_r">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/toes_r</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.044999999999999998 -0.01 0.061856956754965199</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s1_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.0019011578840796601 -0.01 0.00382630379623308</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s2_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.14838639994206301 -0.01 0.028713422052654002</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s3_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.13300117060705099 -0.01 -0.051636247344956601</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s4_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/calcn_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.066234666199163503 -0.01 -0.026364160674169801</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s5_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/toes_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.059999999999999998 -0.01 0.018760308461917698</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-				<ContactSphere name="s6_l">
-					<!--Path to a Component that satisfies the Socket 'frame' of type PhysicalFrame (description: The frame to which this geometry is attached.).-->
-					<socket_frame>/bodyset/toes_l</socket_frame>
-					<!--Location of geometry center in the PhysicalFrame.-->
-					<location>0.044999999999999998 -0.01 -0.061856956754965199</location>
-					<!--Orientation of geometry in the PhysicalFrame (body-fixed XYZ Euler angles).-->
-					<orientation>0 0 0</orientation>
-					<!--Radius of the sphere (default: 0).-->
-					<radius>0.032000000000000001</radius>
-				</ContactSphere>
-			</objects>
+			<objects />
 			<groups />
 		</ContactGeometrySet>
 	</Model>
